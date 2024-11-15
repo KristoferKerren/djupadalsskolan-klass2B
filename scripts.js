@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const button = document.getElementById("greetButton");
+  const button = document.getElementById("knapp");
   //const message = document.getElementById("greetingMessage");
 
   button.addEventListener("click", () => {
