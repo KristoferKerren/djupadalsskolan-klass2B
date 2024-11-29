@@ -30,6 +30,32 @@ button {
 
 button:hover {
   background-color: #0056b3;
-} 
+}
 
-  
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: red;
+}
+
+li {
+  font-size: 12px;
+}
+
+.bild {
+  max-width: 250px;
+}
+
+#knapp {
+  font-size: 12px;
+}
+
+.ordet-inte {
+  font-size: 2px;
+}
