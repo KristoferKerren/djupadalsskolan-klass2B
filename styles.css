@@ -33,7 +33,7 @@ button:hover {
 }
 
 body {
-  background-color: lightgreen;
+  background-color: rgb(27, 235, 27);
 }
 
 h1 {
@@ -41,8 +41,12 @@ h1 {
 }
 
 h2 {
-  color: red;
+  color: #fb1111;
   margin-top: 30px;
+}
+
+body.rubrikfärg-ska-vara-lila h2 {
+  color: rgb(223, 90, 223);
 }
 
 li {
@@ -55,7 +59,7 @@ li {
   max-width: 250px;
 }
 
-#knapp {
+button {
   font-size: 12px;
 }
 
